@@ -1,1 +1,0 @@
-Here we talk about NoSQL, Arrgh
